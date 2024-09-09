@@ -39,7 +39,7 @@ export default function RootLayout({
               Write
             </Link>
             <Link
-              href="#"
+              href="/"
               className="text-sm font-medium hover:underline hover:underline-offset-4"
               prefetch={false}
             >
