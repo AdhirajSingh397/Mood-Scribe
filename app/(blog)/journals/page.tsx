@@ -1,6 +1,11 @@
-import Component from "@/components/Journals"
+import Journal from "@/components/Journals"
+import Landing from "@/components/Landing"
 
 export default function journals(){
-    return <Component />
+    return <div>
+        <Landing/> 
+        <Journal/>
+    </div>
+   
 }
  
